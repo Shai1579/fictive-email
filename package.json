@@ -1,6 +1,6 @@
 {
   "name": "fictive-email",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate a fictive email by user name and a random string in slug format",
   "main": "index.js",
   "scripts": {
