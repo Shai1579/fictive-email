@@ -1,0 +1,27 @@
+{
+  "name": "fictive-email",
+  "version": "1.0.1",
+  "description": "Generate a fictive email by user name and a random string in slug format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shai1579/fictive-email.git"
+  },
+  "keywords": [
+    "emails",
+    "fictive",
+    "generator"
+  ],
+  "author": "Shai1579",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shai1579/fictive-email/issues"
+  },
+  "homepage": "https://github.com/Shai1579/fictive-email#readme",
+  "dependencies": {
+    "lodash.kebabcase": "^4.1.1"
+  }
+}
